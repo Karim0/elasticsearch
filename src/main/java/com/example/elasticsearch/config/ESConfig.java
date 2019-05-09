@@ -31,7 +31,7 @@ public class ESConfig {
     //            .put("client.transport.sniff", false)
     //            .put( "client.transport.ignore_cluster_name", true)
     //            .build();
-    //    TransportClient client = null;sad
+    //    TransportClient client = null;
     //    try {
     //        client = TransportClient.builder().build()
     //                .addTransportAddress(new
